@@ -8,7 +8,7 @@ The platform is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 
 ## 🚀 Live Demo
 
-Frontend: 
+Frontend: https://ed-tech-frontend-tau.vercel.app/
 Backend: https://ed-tech-backend-mhnr.onrender.com
 
 ---
