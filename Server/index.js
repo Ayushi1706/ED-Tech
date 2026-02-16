@@ -24,7 +24,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "http://localhost:3000", // frontend URL
+    origin: "https://ed-tech-frontend-tau.vercel.app",
     credentials: true,
   })
 );
